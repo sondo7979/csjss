@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2mfwmak' target='_blank'><img src='https://3.bp.blogspot.com/-1ZmV7sXx8Dw/WHSR4AzZRjI/AAAAAAAACDE/3HxBYI1KroIOzYsWQmYfs81pCA1csvfIwCLcB/s640/can-ho-gia-re-vincity-quan-9-baner.png' width='500px'/><br/>Căn hộ giá rẻ Vincity</a>. Đăng ký mua tặng ngay 5 chỉ vàng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2l5ycsM' target='_blank'><img src='https://3.bp.blogspot.com/-1ZmV7sXx8Dw/WHSR4AzZRjI/AAAAAAAACDE/3HxBYI1KroIOzYsWQmYfs81pCA1csvfIwCLcB/s640/can-ho-gia-re-vincity-quan-9-baner.png' width='500px'/><br/>Căn hộ giá rẻ Vincity</a>. Đăng ký mua tặng ngay 5 chỉ vàng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
